@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df7d4346-c248-4d60-b3b9-3b2702e315d4": {
+      "ProjectGuid": "df7d4346-c248-4d60-b3b9-3b2702e315d4",
+      "DisplayName": "ImageCrop",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
