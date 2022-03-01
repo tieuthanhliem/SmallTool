@@ -175,7 +175,7 @@ namespace GTransactions
                 var today = DateTime.Today;
                 var month = new DateTime(today.Year, today.Month, 1);
                 startTimeTransaction = month.AddMonths(-1);
-                endTimeTransaction = month.AddDays(-1);
+                endTimeTransaction = month;
             }
             else if (rbThisMonth.Checked)
             {
